@@ -2,8 +2,8 @@
     <Source>
         <Name>wine</Name>
         <Packager>
-            <Name>Ikey Doherty</Name>
-            <Email>ikey@solus-project.com</Email>
+            <Name>phinicota</Name>
+            <Email>phinicota</Email>
         </Packager>
         <License>LGPL-2.1</License>
         <PartOf>virt</PartOf>
@@ -1752,8 +1752,8 @@
             <Date>2017-04-25</Date>
             <Version>2.6</Version>
             <Comment>Packaging update</Comment>
-            <Name>Ikey Doherty</Name>
-            <Email>ikey@solus-project.com</Email>
+            <Name>phinicota</Name>
+            <Email>phinicota</Email>
         </Update>
     </History>
 </PISI>
