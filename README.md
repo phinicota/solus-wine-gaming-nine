@@ -1,3 +1,11 @@
+# Update
+
+I'm not using Solus anymore and will not provide updates on this repo.
+I would gladly provide an automated way to generate builds, but Solus won't provide a way to build packages outside of the distro. If you're interested in this, I suggest to read the following issue and *make yourself heard*:
+https://dev.solus-project.com/T6578
+
+If you can come up with another way to build Solus package without running Solus on your machine (vm, docker container, etc), I would like to hear about it.
+
 # solus-wine-gaming-nine
 
 This intends to be a `wine-staging` patched up just like the `wine-gaming-nine` provided in arch's [AUR](https://aur.archlinux.org/packages/wine-gaming-nine/).
